@@ -62,6 +62,16 @@ public class Employee   // method
 	{
 		return "Employee [empId=" + empId + ", name=" + name + ", salary=" + salary + "]";
 	}
+
+	double calculateSalary() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	void displayInfo() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 	
