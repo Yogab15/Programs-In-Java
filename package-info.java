@@ -1,1 +1,1 @@
-package MyGit;
+package forGit;
